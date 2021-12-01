@@ -2,6 +2,9 @@
 
 classification using Tflite.
 
+
+![In what order to compile the files](https://github.com/DeepBrainy/Flutter_ML_fruit_and-vegetables_Idetifier/blob/master/create-an-intelligence-app-using-deep-learning-and-flutter.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
