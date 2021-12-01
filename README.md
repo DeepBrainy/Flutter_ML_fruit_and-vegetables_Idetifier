@@ -1,6 +1,6 @@
-# tflite
+# Flutter Machine Learning
 
-A new Flutter project.
+classification using Tflite.
 
 ## Getting Started
 
